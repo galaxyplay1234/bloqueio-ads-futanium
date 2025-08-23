@@ -1,4 +1,4 @@
 voodc.com
 ads
 per:https://sinalpublico.vercel.app/play/disney.html?id=
-proxy:https:librepelota.pe/
+proxy:https:pelotalibrehdtv.com/
