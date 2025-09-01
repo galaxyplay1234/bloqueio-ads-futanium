@@ -2,7 +2,8 @@ voodc.com
 ads
 per:https://www.youtube.com/
 per:https://grandebibo.com/
-per:https://sinalpublico.vercel.app/play/disney.html?id=
+per:https://sinalpublico.vercel.app/
 proxy:https:pelotalibrehdtv.com/
 proxy:https://streamtpglobal.com/
 proxy:https://www.youtube.com/
+proxy:https://sinalpublico.vercel.app/
