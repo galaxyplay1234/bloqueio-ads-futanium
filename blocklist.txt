@@ -16,3 +16,8 @@ ua:4mamonas.net=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safar
 
 ref:la12hd.com=https://la12hd.com/
 ua:la12hd.com=Mozilla/5.0 (Linux; Android 13; Mobile) Chrome/124.0.0.0 Mobile Safari/537.36
+
+
+# regras de bloqueio e headers
+ref:https://br.futemais.app
+ua:https://br.futemais.appMozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36
