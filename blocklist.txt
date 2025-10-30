@@ -1,5 +1,7 @@
 voodc.com
 ads
+nectsideaments.com
+
 per:https://www.youtube.com/
 per:https://grandebibo.com/
 per:https://sinalpublico.vercel.app/play/
