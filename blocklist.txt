@@ -3,6 +3,8 @@ ads
 per:https://www.youtube.com/
 per:https://grandebibo.com/
 per:https://sinalpublico.vercel.app/play/
+per:https://voodc.com/embed
+proxy:https://voodc.com/embed
 proxy:https:pelotalibrehdtv.com/
 proxy:https://streamtpglobal.com/
 proxy:https://streamtp22.com/
@@ -12,4 +14,3 @@ proxy:http://h5.365streams.world
 
 per:https://antenasport.org/channel
 proxy:https://antenasport.org/channel
-
