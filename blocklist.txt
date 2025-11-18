@@ -17,6 +17,3 @@ proxy:https://sinalpublico.vercel.app/play/
 proxy:http://h5.365streams.world
 proxy:https://rdcanais.top/
 proxy:https://rdcanais.top
-
-per:https://antenasport.org/channel
-proxy:https://antenasport.org/channel
