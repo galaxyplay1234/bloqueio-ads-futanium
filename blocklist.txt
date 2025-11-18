@@ -6,6 +6,8 @@ per:https://www.youtube.com/
 per:https://grandebibo.com/
 per:https://sinalpublico.vercel.app/play/
 per:https://voodc.com/embed
+per:https://rdcanais.top/
+per:https://rdcanais.top
 proxy:https://voodc.com/embed
 proxy:https:pelotalibrehdtv.com/
 proxy:https://streamtpglobal.com/
