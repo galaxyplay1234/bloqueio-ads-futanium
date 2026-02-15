@@ -1,5 +1,5 @@
 voodc.com
 nectsideaments.com
 
-per:https://sporturbo.com/player/canais/ampv-sportv
+per:
 proxy:
