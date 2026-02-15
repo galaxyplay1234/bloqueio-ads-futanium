@@ -2,5 +2,5 @@ ads
 voodc.com
 nectsideaments.com
 
-per:
+per:youtube.com
 proxy:
