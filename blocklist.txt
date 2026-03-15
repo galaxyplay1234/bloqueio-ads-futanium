@@ -2,6 +2,10 @@ ads
 voodc.com
 nectsideaments.com
 
+
+
+
+per:https://embedtvonline.com
 per:youtube.com
 per:streamtp10.com
 proxy:streamtp10.com
