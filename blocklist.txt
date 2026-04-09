@@ -11,7 +11,7 @@ per:streamtp10.com
 proxy:streamtp10.com
 per:alerquina54541.embedtv.best
 proxy:alerquina54541.embedtv.best
-
+per:https://www4.embedtv.cv/espn
 
 per:outbound-proxy-us-east1-0-blob-usercontent-client-id-7775691497.googleapis.com.de/player3/ch.php?canal=
 proxy:outbound-proxy-us-east1-0-blob-usercontent-client-id-7775691497.googleapis.com.de/player3/ch.php?canal=
