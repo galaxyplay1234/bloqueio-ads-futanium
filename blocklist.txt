@@ -9,6 +9,7 @@ per:https://embedtvonline.com
 per:youtube.com
 per:streamtp10.com
 proxy:streamtp10.com
+per:alerquina54541.embedtv.best
 
 
 per:outbound-proxy-us-east1-0-blob-usercontent-client-id-7775691497.googleapis.com.de/player3/ch.php?canal=
