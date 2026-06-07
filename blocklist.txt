@@ -10,6 +10,6 @@ per:streamtp10.com
 per:alerquina54541.embedtv.best
 per:https://www4.embedtv.cv/
 
-proxy:latamvidz1.com
+proxy:https://latamvidz1.com
 
 per:outbound-proxy-us-east1-0-blob-usercontent-client-id-7775691497.googleapis.com.de
