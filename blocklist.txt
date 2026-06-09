@@ -12,5 +12,6 @@ per:https://www4.embedtv.cv/
 
 proxy:https://latamvidz1.com
 proxy: meuplayeronlinehd.com
+proxy: ww2.embedtv.lat
 
 per:outbound-proxy-us-east1-0-blob-usercontent-client-id-7775691497.googleapis.com.de
